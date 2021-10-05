@@ -1,0 +1,24 @@
+.header-img img{
+    height: 80px;
+}
+
+.header-img{
+    text-align: center;
+}
+
+.navigation-conatiner{
+    background-color: black;
+   line-height: 40px;
+}
+
+.navigation-conatiner a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin-left: 40px;
+}
+
+.navigation-conatiner a:hover{
+    border: 1px solid wheat;
+    padding: 5px;
+}
